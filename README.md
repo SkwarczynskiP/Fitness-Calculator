@@ -33,10 +33,10 @@ This Fitness Calculator serves the solution to this worldwide problem. By combin
 
 ## Next Steps?
 
--After making the first calculation, the user has one of three options
-    1. The user may click the "X" button in the top right corner to exit the program.
-    2. The user may click the "Reset Fields" button in the bottom left of the screen to clear the inputted values, and make another calculation with the same query.
-    3. The user may click the "Make a Different Calculation" button in the bottom right of the screen to clear all nodes pertaining to the initial calculation, and allow the user to select a new calculation option at the top middle of the screen.
+After making the first calculation, the user has one of three options
+- The user may click the "X" button in the top right corner to exit the program.
+- The user may click the "Reset Fields" button in the bottom left of the screen to clear the inputted values, and make another calculation with the same query.
+- The user may click the "Make a Different Calculation" button in the bottom right of the screen to clear all nodes pertaining to the initial calculation, and allow the user to select a new calculation option at the top middle of the screen.
 
 ## Other Functionalities
 
