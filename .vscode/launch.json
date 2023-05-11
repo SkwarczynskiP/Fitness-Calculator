@@ -9,7 +9,7 @@
             "name": "GUI",
             "request": "launch",
             "mainClass": "GUI",
-            "vmArgs": "--module-path 'c:\\MY STUFF\\Winter 2023\\CSI 2300\\javafx-sdk-19\\lib' --add-modules javafx.controls,javafx.graphics,javafx.fxml,javafx.base,javafx.media,javafx.swing,javafx.web"
+            "vmArgs": "--module-path 'c:\\MY STUFF\\OU Winter 2023\\CSI 2300\\javafx-sdk-19\\lib' --add-modules javafx.controls,javafx.graphics,javafx.fxml,javafx.base,javafx.media,javafx.swing,javafx.web"
         }
     ]
 }
